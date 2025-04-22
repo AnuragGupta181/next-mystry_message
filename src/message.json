@@ -1,0 +1,68 @@
+[
+    {
+      "title": "Message from UnknownFriend",
+      "content": "You're doing better than you think. Keep going!",
+      "received": "5 minutes ago"
+    },
+    {
+      "title": "Message from BookWorm42",
+      "content": "Try reading 'The Midnight Library' – it's a game changer.",
+      "received": "30 minutes ago"
+    },
+    {
+      "title": "Message from SilentSupporter",
+      "content": "I’ve been following your journey silently. So proud of you!",
+      "received": "3 hours ago"
+    },
+    {
+      "title": "Message from HiddenFan",
+      "content": "Your smile made my day today. Just thought you should know.",
+      "received": "6 hours ago"
+    },
+    {
+      "title": "Message from GuessWho",
+      "content": "Can you guess who I am? 😏 Hint: we met at the workshop.",
+      "received": "8 hours ago"
+    },
+    {
+      "title": "Message from SomeoneYouKnow",
+      "content": "I saw you helping that person yesterday. That was amazing!",
+      "received": "14 hours ago"
+    },
+    {
+      "title": "Message from SkyWatcher",
+      "content": "Did you catch the sunset today? It reminded me of you.",
+      "received": "22 hours ago"
+    },
+    {
+      "title": "Message from DeepThinker",
+      "content": "Do you ever wonder what people really think of you?",
+      "received": "2 days ago"
+    },
+    {
+      "title": "Message from FriendlyGhost",
+      "content": "Boo! 👻 Just wanted to say you’re appreciated.",
+      "received": "3 days ago"
+    },
+    {
+      "title": "Message from ShyOne",
+      "content": "I've always wanted to say hi, but never had the courage.",
+      "received": "4 days ago"
+    },
+    { 
+        "title": "Message from User123", 
+        "content": "Hey, how are you doing today?", 
+        "received": "10 minutes ago" 
+    }, 
+    { 
+        "title": "Message from SecretAdmirer", 
+        "content": "I really liked your recent post!", 
+        "received": "2 hours ago" 
+    },
+    { 
+        "title": "Message from MysteryGuest", 
+        "content": "Do you have any book recommendations?", 
+        "received": "1 day ago" 
+    }
+  ]
+  
