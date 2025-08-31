@@ -40,9 +40,9 @@ export default function PublicProfilePage() {
         setMessage("");
         setSuggestedMessages([]);
       } else {
-        toast.error(data.error || "Failed to send message") }
-
-    } catch (error) {
+        toast.error(data.error || "Failed to send message");
+      }
+    } catch {
       toast.error("Something went wrong");
     } finally {
       setIsLoading(false);
