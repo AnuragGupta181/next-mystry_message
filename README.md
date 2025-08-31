@@ -92,26 +92,7 @@ GOOGLE_CLIENT_ID=your_client_id
 GOOGLE_CLIENT_SECRET=your_client_secret
 ```
 
-**Or** use these **sample env** keys
-
-```.env.sample
-MONGODB_URI = "mongodb://anu:123@mycluster-shard-00-00.gjelc.mongodb.net:27017,mycluster-shard-00-01.gjelc.mongodb.net:27017,mycluster-shard-00-02.gjelc.mongodb.net:27017/mstrymessage?replicaSet=atlas-sq1glq-shard-0&ssl=true&authSource=admin&retryWrites=true&w=majority&appName=MyCluster"
-
-RESEND_API_KEY = "re_FLRgj7hy_MDWXiYrPAZLwZB89yfvzMzSJ"
-
-NEXTAUTH_SECRET =papa
-
-GOOGLE_CLIENT_ID = "266747673256-nnpgqlgtfbkl7m9oidk6vkbq9sln2msv.apps.googleusercontent.com"
-
-GOOGLE_CLIENT_SECRET = "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"
-
-GEMINI_API_KEY = "AIzaSyD8h2swzjS5TZkXhWf26flI4_anQ2vm0No"
-
-NEXTAUTH_URL=http://localhost:3000
-
-OPENROUTER_API_KEY=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
-```
-
+**Or** use the **env.sample** file to get keys
 
 
 ### 4️⃣ Run the development server
